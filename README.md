@@ -270,8 +270,6 @@ Use:
 ---
 
 ## 👨‍💻 Author
-
-**Osama**
-#Backend Java Developer
-
+> **Osama**  
+> *Backend Java Developer*
 ---
