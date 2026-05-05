@@ -272,6 +272,6 @@ Use:
 ## 👨‍💻 Author
 
 **Osama**
-Backend Java Developer
+*Backend Java Developer
 
 ---
