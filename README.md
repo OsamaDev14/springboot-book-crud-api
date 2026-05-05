@@ -206,9 +206,9 @@ Handled using `@ControllerAdvice`
 
 ### 🔹 Exceptions
 
-* `IdNotFoundException` → 404
-* `NoRecordAvailableException` → 404
-* `InvalidInputException` → 400
+* `IdNotFoundException`
+* `NoRecordAvailableException`
+* `InvalidInputException`
 
 ---
 
@@ -272,6 +272,6 @@ Use:
 ## 👨‍💻 Author
 
 **Osama**
-*Backend Java Developer
+#Backend Java Developer
 
 ---
